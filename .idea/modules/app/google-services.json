@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411755687629",
+    "project_id": "parciale-4b2af",
+    "storage_bucket": "parciale-4b2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411755687629:android:f664db9673b0c1253b0384",
+        "android_client_info": {
+          "package_name": "com.example.kokolo.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411755687629-32teoc3rms0o95f71vp2f454443uhqqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kokolo.socialnetwork",
+            "certificate_hash": "53fd832d5ef08d5e570632c84491049183cfd736"
+          }
+        },
+        {
+          "client_id": "411755687629-9crvva3hgv0v9lj4t215nubsdk2kl9d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dlhcMK7yNW55lbfolD-xQAzes0bS2NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411755687629-9crvva3hgv0v9lj4t215nubsdk2kl9d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
