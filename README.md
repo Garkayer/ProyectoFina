@@ -1,2 +1,2 @@
-# Social Network App
+# FIN.
 Parcial 3 De Programaciòn.
